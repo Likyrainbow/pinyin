@@ -2,10 +2,11 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "likyrainbow.github",
+  "name": "汉语拼音学习",
   "orientation": "any",
-  "scope": "/",
-  "short_name": "likyrainbow.github",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "scope": "/pinyin/",
+  "short_name": "拼音学习",
+  "start_url": "/pinyin/",
+  "theme_color": "#4A90D9",
+  "icons": []
 }
